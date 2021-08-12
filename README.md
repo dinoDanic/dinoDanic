@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dinoDanic
-- 👀 I’m interested in React
-- 🌱 I’m currently learning Redux thunk and saga
-- atm I'm developing a task menagment app
+- 👀 I’m interested in React / React Native
 - 📫 How to reach me dino.danic@gmail.com
 
 <!---
