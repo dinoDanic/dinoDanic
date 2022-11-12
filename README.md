@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @dinoDanic
 React, Ruby, GraphQL, WebGL <3
 
 <!---
