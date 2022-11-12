@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dinoDanic
-- 👀 I’m interested in React / React Native
-- 📫 How to reach me dino.danic@gmail.com
+React, Ruby, GraphQL, WebGL <3
 
 <!---
 dinoDanic/dinoDanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
