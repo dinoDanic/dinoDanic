@@ -1,4 +1,4 @@
-React, Ruby, GraphQL, WebGL <3
+Elixir atm <3
 
 <!---
 dinoDanic/dinoDanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
