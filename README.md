@@ -1,4 +1,4 @@
-Elixir atm <3
+React, React Native, Flutter, Elixir <3
 
 <!---
 dinoDanic/dinoDanic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
